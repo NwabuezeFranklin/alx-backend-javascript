@@ -45,3 +45,5 @@ interface DirectorInterface {
   
   console.log(teachClass("Math"));
   console.log(teachClass("History"));
+
+
