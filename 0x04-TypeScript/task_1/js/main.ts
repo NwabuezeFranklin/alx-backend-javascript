@@ -44,3 +44,4 @@ interface StudentConstructor {
 const student = new StudentClass("Djo", "djo");
 console.log(student.displayName())
 console.log(student.workOnHomework())
+
